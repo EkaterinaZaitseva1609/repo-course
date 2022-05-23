@@ -13,3 +13,5 @@ mv oldname.txt newname.txt
 ``
 ##Очистить терминал 
 clear
+
+## Создать каталог
