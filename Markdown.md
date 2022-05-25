@@ -29,5 +29,8 @@
 ##Заключение 
 66
 
-## Web ссылка 
-[link example](https://www.yandex.ru)
+
+## Web ссылки
+Ссылка [пример ссылки](https://google.com) 
+
+
