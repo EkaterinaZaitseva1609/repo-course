@@ -15,3 +15,11 @@ mv oldname.txt newname.txt
 clear
 
 ## Создать каталог
+
+
+
+
+
+
+
+
